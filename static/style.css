@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    height: 10vh;
+}
+main{
+    height: 80vh;
+}
+footer{
+    height: 10vh; 
+}
